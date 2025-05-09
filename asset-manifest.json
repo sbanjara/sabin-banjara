@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sabin-banjara/static/css/main.58d21b6f.css",
+    "main.css": "/sabin-banjara/static/css/main.dca7c9a4.css",
     "main.js": "/sabin-banjara/static/js/main.eeda542e.js",
     "static/js/787.36fbff43.chunk.js": "/sabin-banjara/static/js/787.36fbff43.chunk.js",
     "static/media/sabin.jpg": "/sabin-banjara/static/media/sabin.08fc76ca76b2330d68b8.jpg",
@@ -10,12 +10,12 @@
     "static/media/thirdImage.png": "/sabin-banjara/static/media/thirdImage.cfc5bdf2712b7b65c99e.png",
     "static/media/fourthImage.png": "/sabin-banjara/static/media/fourthImage.60abaafc964ead9c5df7.png",
     "index.html": "/sabin-banjara/index.html",
-    "main.58d21b6f.css.map": "/sabin-banjara/static/css/main.58d21b6f.css.map",
+    "main.dca7c9a4.css.map": "/sabin-banjara/static/css/main.dca7c9a4.css.map",
     "main.eeda542e.js.map": "/sabin-banjara/static/js/main.eeda542e.js.map",
     "787.36fbff43.chunk.js.map": "/sabin-banjara/static/js/787.36fbff43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58d21b6f.css",
+    "static/css/main.dca7c9a4.css",
     "static/js/main.eeda542e.js"
   ]
 }
