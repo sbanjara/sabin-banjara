@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/sabin-banjara/static/css/main.fef22a63.css",
+    "main.css": "/sabin-banjara/static/css/main.2e0992ca.css",
     "main.js": "/sabin-banjara/static/js/main.edb74118.js",
     "static/js/787.36fbff43.chunk.js": "/sabin-banjara/static/js/787.36fbff43.chunk.js",
+    "static/media/sabin.png": "/sabin-banjara/static/media/sabin.c9cffbed33de6ef5ce47.png",
     "static/media/sabin.jpg": "/sabin-banjara/static/media/sabin.08fc76ca76b2330d68b8.jpg",
     "static/media/sixthImage.png": "/sabin-banjara/static/media/sixthImage.fd40992b06718465f933.png",
     "static/media/secondImage.png": "/sabin-banjara/static/media/secondImage.ca7804935f41e430d2c7.png",
@@ -10,12 +11,12 @@
     "static/media/thirdImage.png": "/sabin-banjara/static/media/thirdImage.cfc5bdf2712b7b65c99e.png",
     "static/media/fourthImage.png": "/sabin-banjara/static/media/fourthImage.60abaafc964ead9c5df7.png",
     "index.html": "/sabin-banjara/index.html",
-    "main.fef22a63.css.map": "/sabin-banjara/static/css/main.fef22a63.css.map",
+    "main.2e0992ca.css.map": "/sabin-banjara/static/css/main.2e0992ca.css.map",
     "main.edb74118.js.map": "/sabin-banjara/static/js/main.edb74118.js.map",
     "787.36fbff43.chunk.js.map": "/sabin-banjara/static/js/787.36fbff43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fef22a63.css",
+    "static/css/main.2e0992ca.css",
     "static/js/main.edb74118.js"
   ]
 }
